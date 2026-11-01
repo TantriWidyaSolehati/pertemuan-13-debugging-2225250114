@@ -1,0 +1,23 @@
+# Abaikan folder cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Abaikan file log
+*.log
+
+# Abaikan virtual environment
+venv/
+env/
+
+# Abaikan konfigurasi editor
+.vscode/
+.idea/
+
+# Abaikan file sistem
+Thumbs.db
+.DS_Store
+
+# Abaikan file sementara
+*.tmp
+*.bak
